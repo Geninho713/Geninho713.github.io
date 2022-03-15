@@ -1,0 +1,8 @@
+Seletor de cores
+#660066
+
+Embed Font
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+
+Specify in CSS
+font-family: 'Roboto Slab', serif;
